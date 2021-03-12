@@ -1,5 +1,5 @@
 {
-    "name": "php-translation/common",
+    "name": "sooyoos/common",
     "description": "Common translation stuff",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^8.0",
         "symfony/translation": " ^3.4 || ^4.3 || ^5.0"
     },
     "require-dev": {
